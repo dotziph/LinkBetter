@@ -1,7 +1,7 @@
 # 🔗 LinkBetter
 
 LinkBetter is a minimalistic self-hosted PHP "Linktree" or "LinkedIn Bio" alternative. With the Integration of Gravatar for automatic Profile Picture Updates and Google Analytics for tracking.
-A working example can be found [here](https://mcreef.de/)
+A working example can be found [here](https://ziph.cc/)
 
 ## Screenshots
 ![Nothing Special, but here it is.](https://github.com/mcreef/LinkEasy/blob/master/src/screenshot_mainpage.png "Home")
