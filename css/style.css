@@ -110,7 +110,7 @@ a:hover {
 
 /* EDIT LINK UNDERLINE COLOR */
 .underline:hover {
-    border-bottom: 1px solid #E0BE9B;
+    border-bottom: 1px solid #BCA286;
 }
 
 .preul {
@@ -135,7 +135,7 @@ a:hover {
 
 /* EDIT BUTTON BACKGROUND COLOR */
 .button {
-    background: #E0BE9B;
+    background: #BCA286;
     opacity: .9;
     padding: 20px;
     margin: 10px auto;
